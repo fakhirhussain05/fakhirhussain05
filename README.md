@@ -35,9 +35,16 @@ I will be adding my latest full-stack projects here. Stay tuned!
 
 ---
 
-## 📈 GitHub Stats
-![Fakhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakhirhussain05&show_icons=true&theme=default)
+## 📈 GitHub Analytics
 
+### 🔹 Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=fakhirhussain05&show_icons=true&theme=tokyonight)
+
+### 🔹 Streak  
+![Streak](https://streak-stats.demolab.com?user=fakhirhussain05&theme=tokyonight)
+
+### 🔹 Top Languages  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fakhirhussain05&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
