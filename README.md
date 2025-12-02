@@ -6,11 +6,17 @@ BSCS Student • Passionate about building real-world web applications
 ---
 
 ## 🔥 About Me
-I’m a self-driven Full Stack Developer who loves building clean, functional web applications.  
-Recently completed a **Full Stack Development Internship at CodeAlpha**, where I developed:
-
-- 🛒 **E-commerce Store** (product pages, cart system, backend APIs)  
-- 🌐 **Mini Social Media App** (posts, likes, comments, API architecture)
+I'm a Full Stack Developer passionate about building real, meaningful web applications using modern JavaScript technologies. I recently completed my Full Stack Development Internship at CodeAlpha, where I developed:
+A full E-commerce Store (frontend +
+backend)
+A Mini Social Media App with posts, likes,
+and comments
+I enjoy solving problems, creating clean Ul, and connecting frontend with backend systems using REST APIs.
+Currently pursuing BSCS, and continuously improving my skills in:
+JavaScript | HTML | CSS | Node.js | Express.js | Git |
+APIs | MongoDB (learning)
+I'm focused on becoming a strong MERN Stack
+Developer and building projects that help me grow in real-world development.
 
 I believe in learning by building. Every day is a chance to improve.
 
@@ -37,6 +43,7 @@ I will be adding my latest full-stack projects here. Stay tuned!
 ## 📫 Connect With Me
 🌐 LinkedIn: https://www.linkedin.com/in/fakhirhussain  
 📧 Email: qazifakhir6@gmail.com  
+📱 Contact: +92 3162941579  
 🐙 GitHub: https://github.com/fakhirhussain05
 
 ---
