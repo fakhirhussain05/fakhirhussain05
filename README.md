@@ -41,7 +41,7 @@ I will be adding my latest full-stack projects here. Stay tuned!
 ---
 
 ## 📫 Connect With Me
-🌐 LinkedIn: https://www.linkedin.com/in/fakhir-hussain-06b648304/ 
+🌐 LinkedIn: https://www.linkedin.com/in/fakhir-hussain-06b648304
 📧 Email: qazifakhir6@gmail.com  
 📱 Contact: +92 3162941579  
 🐙 GitHub: https://github.com/fakhirhussain05
